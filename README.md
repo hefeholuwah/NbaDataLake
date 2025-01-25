@@ -2,6 +2,7 @@
 
 This project fetches sports player data from the SportsData API, processes it, stores it in an AWS S3 data lake, and enables querying through AWS Glue and Athena. The system automates data ingestion, processing, and querying for analytics and reporting purposes.
 
+![NBADATALAKE drawio](https://github.com/user-attachments/assets/5ce3cf16-7812-4415-bfd0-07b37ec53600)
 
 
 ## Features  
