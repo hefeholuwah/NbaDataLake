@@ -63,7 +63,7 @@ node index.js
 Athena allows querying the processed data. Use the query:  
 
 ```sql
-SELECT * FROM "sportsdata_db"."sports_playersactivebasic" LIMIT 10;
+SELECT * FROM "sportsdata_db"."sports_nbadatalake" LIMIT 10;
 ```
 
 The query results are saved in the specified S3 output location.  
